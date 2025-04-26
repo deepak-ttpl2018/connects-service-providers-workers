@@ -1,0 +1,31 @@
+# Web framework
+Flask==2.2.3
+flask-cors==3.0.10
+
+# PDF processing
+PyPDF2==3.0.1
+pdfplumber==0.7.6
+
+# Text processing and ML
+nltk==3.8.1
+transformers==4.30.2
+openai==0.27.8
+langchain==0.0.267
+
+# Text-to-Speech
+gTTS==2.3.2  # Google Text-to-Speech
+
+# Speech Recognition
+SpeechRecognition==3.10.0
+pyaudio==0.2.13  # Requires portaudio library
+
+# Database
+SQLAlchemy==2.0.20
+alembic==1.11.3
+
+# Testing
+pytest==7.4.0
+
+# Utilities
+python-dotenv==1.0.0
+requests==2.31.0

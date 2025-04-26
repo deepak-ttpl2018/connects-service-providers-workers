@@ -1,0 +1,3 @@
+"""
+EduMind AI package initialization
+"""
